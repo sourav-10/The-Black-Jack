@@ -1,16 +1,8 @@
-# title(){return this.options.title||this.options.name}
+This is very simple black jack game possible to made by Java Script,CSS,HTML 
+1.The rules are very simple.
+2.Once you Press the start tab will provided with 2 cards randomly.
+3.If the combination of 2 cards are 21 .
+4.You are Black Jack.
+5.If not will provided with the new card in the new card tab untill you are out of the game .
 
-## Supporting Scrimba
-
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
-
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
-
-	It would also mean the world to us if you share the courses.  
-
-Happy Coding!
+ST3GN0
